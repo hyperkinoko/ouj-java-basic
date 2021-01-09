@@ -1,10 +1,10 @@
 # 4-4 自習問題
 
-* 提出者：　松本 早紀
+* 提出者：　松本 早紀(201-008019-2)
 * 提出日：　2020/12/02
-* 動作環境：　MacOS Catalina(10.15.7) / Java 11(openjdk11.0.2）
+* 動作環境：　MacOS Catalina(10.15.7) / Java 11(openjdk11.0.2）/ IntelliJ IDEA
 
-## ソースコードは以下
+## ソースコード
 
 ```java
 package net.kinokodata;
@@ -98,6 +98,6 @@ public class Main {
 }
 ```
 
-出力結果は以下
+## 出力結果
 
 ![自習問題4-4 出力結果](./images/screenshot4-4-01.png)

@@ -1,0 +1,1 @@
+docker run --rm --volume "$(pwd):/data" mypandoc  -f gfm chapter4-kadai.md -t pdf -s -o 201-008019-2.pdf -c github-markdown.css --highlight-style=pygments --metadata pagetitle=kadai4-4 --pdf-engine=lualatex -V documentclass=bxjsarticle -V classoption=pandoc
